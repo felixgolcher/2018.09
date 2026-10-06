@@ -10,6 +10,8 @@ Ihr könnt Euch immer durchklicken. Die Bezeichnungen der Verzeichnisse sollte k
 
 Die [Mitschrift](physik/mitschriften/01_2026-10-06_geschwindigkeit.pdf) von heute.
 
+Da [Arbeitsblatt](physik/arbeitsmaterial/aufg-02-geschwindigkeit-2026-10-06.pdf) von heute.
+
 # Über dieses Verzeichnis
 
 Hier findet sich das Übungs- und Unterrichtsmaterial für Mathematik und Physik für Eure Klasse.
