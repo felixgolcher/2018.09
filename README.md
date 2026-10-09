@@ -6,6 +6,10 @@ noch keine...
 
 Ihr könnt Euch immer durchklicken. Die Bezeichnungen der Verzeichnisse sollte klar sein. Ich werde hier nicht auf alle neuen Dateien direkt verlinken, nur immer mal wieder und besonders wichtiges vielleicht.
 
+## 2026-10-09
+
+Weitere Arbeitsblätter und Lösungen unter [`physik/arbeitsmaterial`](physik/arbeitsmaterial). Alles auch ausgeteilt.
+
 ## 2026-10-06
 
 Die [Mitschrift](physik/mitschriften/01_2026-10-06_geschwindigkeit.pdf) von heute.
