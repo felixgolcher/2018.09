@@ -10,6 +10,8 @@ Ihr könnt Euch immer durchklicken. Die Bezeichnungen der Verzeichnisse sollte k
 
 Die [aktualisierte Checkliste](physik/checkliste-ka-1.pdf) für die kommende Klassenarbeit.
 
+Die Arbeitsblaetter in `physik/arbeitsmaterial` sollten nun wieder vollständig sein.
+
 ## 2026-10-09
 
 Weitere Arbeitsblätter und Lösungen unter [`physik/arbeitsmaterial`](physik/arbeitsmaterial). Alles auch ausgeteilt.
